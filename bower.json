@@ -1,0 +1,16 @@
+{
+  "name": "atomic-design-intro",
+  "version": "0.5.0",
+  "description": "A simple presentation introducing the concepts around atomic design and pattern lab",
+  "main": "index.html",
+  "author": "Justin Vencel <failpunk@gmail.com>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ],
+  "dependencies": {
+    "reveal.js": "~3.1.0"
+  }
+}
